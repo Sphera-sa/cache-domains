@@ -1,0 +1,24 @@
+{
+  "cache_domains": [
+    {
+      "name": "rockstar",
+      "description": "CDN for Rockstar Games",
+      "domain_files": ["rockstar.txt"]
+    },
+    {
+      "name": "steam",
+      "description": "CDN for Steam",
+      "domain_files": ["steam.txt"]
+    },
+    {
+      "name": "wsus",
+      "description": "CDN for Windows Updates",
+      "domain_files": ["windowsupdates.txt"]
+    },
+    {
+      "name": "fivem",
+      "description": "CDN for FiveM updates",
+      "domain_files": ["fivem.txt"]
+    }
+  ]
+}

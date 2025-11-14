@@ -1,1 +1,2 @@
+cache.lancache.net
 *.cache.lancache.net

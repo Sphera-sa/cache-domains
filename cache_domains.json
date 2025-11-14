@@ -1,11 +1,6 @@
 {
   "cache_domains": [
     {
-      "name": "lancache",
-      "description": "Internal Lancache",
-      "domain_files": ["lancache.txt"]
-    },
-    {
       "name": "rockstar",
       "description": "CDN for Rockstar Games",
       "domain_files": ["rockstar.txt"]
